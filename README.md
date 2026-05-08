@@ -106,11 +106,11 @@ Questo evento indica un tentativo di autenticazione non riuscito.
 
 
 
-📷 Screenshot:  
+📷 Screenshot:
 
 
 
-!\[4625](/screenshots/logon/Screenshot 2026-05-08 183758.png)
+!\[4625](/screenshots/logon/1.png)
 
 
 
@@ -122,11 +122,11 @@ Indica un login completato con successo.
 
 
 
-📷 Screenshot:  
+📷 Screenshot:
 
 
 
-!\[4624](/screenshots/logon/Screenshot 2026-05-08 183834.png)
+!\[4624](/screenshots/logon/2.png)
 
 
 
@@ -148,11 +148,11 @@ Questo comportamento è tipico di script offuscati o attività sospette.
 
 
 
-📷 Screenshot:  
+📷 Screenshot:
 
 
 
-!\[Sysmon ID 1](/screenshots/sysmon/Screenshot 2026-05-08 184318.png)
+!\[Sysmon ID 1](/screenshots/sysmon/3.png)
 
 
 
@@ -172,11 +172,11 @@ Questo permette di identificare eventuali comunicazioni verso host esterni.
 
 
 
-📷 Screenshot:  
+📷 Screenshot:
 
 
 
-!\[Sysmon ID 3](/screenshots/sysmon/Screenshot 2026-05-08 184208.png)
+!\[Sysmon ID 3](/screenshots/sysmon/4.png)
 
 
 
