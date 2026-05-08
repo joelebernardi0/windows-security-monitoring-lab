@@ -106,27 +106,11 @@ Questo evento indica un tentativo di autenticazione non riuscito.
 
 
 
-📷 Screenshot:
-
-
-
-!\[4625] screenshots/logon/1.png
-
-
-
 🔸 Evento 4624 — Accesso riuscito
 
 Indica un login completato con successo.
 
 È fondamentale per ricostruire la timeline di un potenziale incidente.
-
-
-
-📷 Screenshot:
-
-
-
-!\[4624](/screenshots/logon/2.png)
 
 
 
@@ -148,14 +132,6 @@ Questo comportamento è tipico di script offuscati o attività sospette.
 
 
 
-📷 Screenshot:
-
-
-
-!\[Sysmon ID 1](/screenshots/sysmon/3.png)
-
-
-
 🔸 Sysmon ID 3 — Network Connection Detected
 
 Sysmon registra una connessione di rete generata da PowerShell, simulata tramite:
@@ -169,16 +145,6 @@ curl http://example.com
 
 
 Questo permette di identificare eventuali comunicazioni verso host esterni.
-
-
-
-📷 Screenshot:
-
-
-
-!\[Sysmon ID 3](/screenshots/sysmon/4.png)
-
-
 
 
 
