@@ -110,7 +110,7 @@ Questo evento indica un tentativo di autenticazione non riuscito.
 
 
 
-!\[4625](/screenshots/logon/1.png)
+!\[4625] (/screenshots/logon/1.png)
 
 
 
