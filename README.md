@@ -108,7 +108,7 @@ Questo evento indica un tentativo di autenticazione non riuscito.
 
 📷 Screenshot:  
 
-/screenshots/logon/Screenshot 2026-05-08 183758.png
+!\[4625](/screenshots/logon/Screenshot 2026-05-08 183758.png)
 
 
 
@@ -122,9 +122,7 @@ Indica un login completato con successo.
 
 📷 Screenshot:  
 
-/screenshots/logon/Screenshot 2026-05-08 183834.png
-
-
+!\[4624](/screenshots/logon/Screenshot 2026-05-08 183834.png)
 
 ⚙️ 2. Eventi Sysmon
 
@@ -146,9 +144,7 @@ Questo comportamento è tipico di script offuscati o attività sospette.
 
 📷 Screenshot:  
 
-/screenshots/sysmon/Screenshot 2026-05-08 184208.png
-
-/screenshots/sysmon/Screenshot 2026-05-08 184318.png
+!\[Sysmon ID 1](/screenshots/sysmon/Screenshot 2026-05-08 184318.png)
 
 
 
@@ -170,9 +166,7 @@ Questo permette di identificare eventuali comunicazioni verso host esterni.
 
 📷 Screenshot:  
 
-/screenshots/sysmon/Screenshot 2026-05-08 184824.png
-
-/screenshots/sysmon/Screenshot 2026-05-08 184835.png
+!\[Sysmon ID 3](/screenshots/sysmon/Screenshot 2026-05-08 184208.png)
 
 
 
